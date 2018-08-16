@@ -41,5 +41,5 @@ make
 ./fdf [map]
 ```
 
-## Licence
-Ce projet a été produit sous licence MIT - voir le fichier LICENSE.md pour plus d'informations.
+## Licence & crédits
+Ce projet a été produit par Jmonnerie et <a href="https://github.com/Alhuin">Jjanin-r (@Alhuin)</a> sous licence MIT - voir le fichier LICENSE.md pour plus d'informations.
